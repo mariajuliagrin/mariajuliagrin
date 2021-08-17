@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hii!! I'm Maria Júlia Aguiar!
 
-<!--
-**mariajuliagrin/mariajuliagrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-📖 I'm pursuing a Ph.D in Electrical Engineering..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+</div>
+  <a href="https://github.com/mariajuliagrin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariajuliagrin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariajuliagrin&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+  ##
+ 
+<div> 
+
+   <a href="https://www.linkedin.com/in/mariajuliarosaaguiar/" target="_blank"><img height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 	<a href = "mailto:maria.aguiar@engenharia.ufjf.br"><img height="30" src="https://img.shields.io/badge/-maria.aguiar@engenharia.ufjf.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maria.aguiar@engenharia.ufjf.br)" target="_blank"></a>
+
+ 
+ 
+ 
+</div>
