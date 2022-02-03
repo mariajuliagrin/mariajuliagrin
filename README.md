@@ -17,7 +17,7 @@
 
 </div>
   <a href="https://github.com/mariajuliagrin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariajuliagrin&count_private=true&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariajuliagrin&count_private=false&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariajuliagrin&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
