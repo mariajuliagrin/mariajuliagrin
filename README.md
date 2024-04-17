@@ -1,7 +1,7 @@
 ### Hi! I'm Maria Júlia Aguiar! ☺
 
 
-- 👩🏻‍💻 I'm pursuing PhD in Electrical Engineering.
+- 👩🏻‍💻 I'm Graduated in Control and Automation Engineering and master's degree in Electrical Engineering at the Federal University of Juiz de Fora.".
 
 <div> 
 
